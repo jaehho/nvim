@@ -35,7 +35,7 @@ function M.get()
 			GitSignsDeletePreview = { link = "DiffDelete" },
 
 			GitSignsAddInline = { bg = U.darken(C.green, 0.36, C.base) },
-			GitSignsChangeInline = { bg = U.darken(C.blue, 0.14, C.base) },
+			GitSignsChangeInline = { bg = U.darken(C.blue, 0.36, C.base) },
 			GitSignsDeleteInline = { bg = U.darken(C.red, 0.36, C.base) },
 		}
 	end
